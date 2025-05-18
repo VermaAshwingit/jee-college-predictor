@@ -1,0 +1,34 @@
+[
+  {
+    "college": "NIT Trichy",
+    "branch": "Computer Science",
+    "category": "GEN",
+    "quota": "AI",
+    "closing_rank": 1500,
+    "state": "Tamil Nadu"
+  },
+  {
+    "college": "NIT Trichy",
+    "branch": "Computer Science",
+    "category": "GEN",
+    "quota": "HS",
+    "closing_rank": 2500,
+    "state": "Tamil Nadu"
+  },
+  {
+    "college": "NIT Warangal",
+    "branch": "Electrical",
+    "category": "OBC",
+    "quota": "AI",
+    "closing_rank": 4000,
+    "state": "Telangana"
+  },
+  {
+    "college": "IIIT Hyderabad",
+    "branch": "CSE",
+    "category": "GEN",
+    "quota": "AI",
+    "closing_rank": 1000,
+    "state": "Telangana"
+  }
+]
