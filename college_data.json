@@ -1,34 +1,202 @@
 [
   {
-    "college": "NIT Trichy",
-    "branch": "Computer Science",
+    "college": "IIT Bombay",
+    "branch": "Computer Science and Engineering",
     "category": "GEN",
     "quota": "AI",
-    "closing_rank": 1500,
+    "closing_rank": 60,
+    "state": "Maharashtra"
+  },
+  {
+    "college": "IIT Delhi",
+    "branch": "Computer Science and Engineering",
+    "category": "GEN",
+    "quota": "AI",
+    "closing_rank": 102,
+    "state": "Delhi"
+  },
+  {
+    "college": "IIT Madras",
+    "branch": "Computer Science and Engineering",
+    "category": "GEN",
+    "quota": "AI",
+    "closing_rank": 167,
+    "state": "Tamil Nadu"
+  },
+  {
+    "college": "IIT Kanpur",
+    "branch": "Computer Science and Engineering",
+    "category": "GEN",
+    "quota": "AI",
+    "closing_rank": 236,
+    "state": "Uttar Pradesh"
+  },
+  {
+    "college": "IIT Kharagpur",
+    "branch": "Computer Science and Engineering",
+    "category": "GEN",
+    "quota": "AI",
+    "closing_rank": 295,
+    "state": "West Bengal"
+  },
+  {
+    "college": "IIT Roorkee",
+    "branch": "Computer Science and Engineering",
+    "category": "GEN",
+    "quota": "AI",
+    "closing_rank": 408,
+    "state": "Uttarakhand"
+  },
+  {
+    "college": "IIT Guwahati",
+    "branch": "Computer Science and Engineering",
+    "category": "GEN",
+    "quota": "AI",
+    "closing_rank": 589,
+    "state": "Assam"
+  },
+  {
+    "college": "IIT Hyderabad",
+    "branch": "Computer Science and Engineering",
+    "category": "GEN",
+    "quota": "AI",
+    "closing_rank": 585,
+    "state": "Telangana"
+  },
+  {
+    "college": "IIT Indore",
+    "branch": "Computer Science and Engineering",
+    "category": "GEN",
+    "quota": "AI",
+    "closing_rank": 1169,
+    "state": "Madhya Pradesh"
+  },
+  {
+    "college": "IIT Gandhinagar",
+    "branch": "Computer Science and Engineering",
+    "category": "GEN",
+    "quota": "AI",
+    "closing_rank": 1352,
+    "state": "Gujarat"
+  },
+  {
+    "college": "IIT Roorkee",
+    "branch": "Electrical Engineering",
+    "category": "GEN",
+    "quota": "AI",
+    "closing_rank": 2104,
+    "state": "Uttarakhand"
+  },
+  {
+    "college": "IIT Madras",
+    "branch": "Electrical Engineering",
+    "category": "GEN",
+    "quota": "AI",
+    "closing_rank": 985,
+    "state": "Tamil Nadu"
+  },
+  {
+    "college": "IIT Bombay",
+    "branch": "Electrical Engineering",
+    "category": "GEN",
+    "quota": "AI",
+    "closing_rank": 369,
+    "state": "Maharashtra"
+  },
+  {
+    "college": "IIT Kharagpur",
+    "branch": "Electrical Engineering",
+    "category": "GEN",
+    "quota": "AI",
+    "closing_rank": 1702,
+    "state": "West Bengal"
+  },
+  {
+    "college": "IIT Kanpur",
+    "branch": "Electrical Engineering",
+    "category": "GEN",
+    "quota": "AI",
+    "closing_rank": 1360,
+    "state": "Uttar Pradesh"
+  },
+  {
+    "college": "IIT Roorkee",
+    "branch": "Mechanical Engineering",
+    "category": "GEN",
+    "quota": "AI",
+    "closing_rank": 3768,
+    "state": "Uttarakhand"
+  },
+  {
+    "college": "IIT Madras",
+    "branch": "Mechanical Engineering",
+    "category": "GEN",
+    "quota": "AI",
+    "closing_rank": 7823,
+    "state": "Tamil Nadu"
+  },
+  {
+    "college": "IIT Bombay",
+    "branch": "Mechanical Engineering",
+    "category": "GEN",
+    "quota": "AI",
+    "closing_rank": 1382,
+    "state": "Maharashtra"
+  },
+  {
+    "college": "IIT Kharagpur",
+    "branch": "Mechanical Engineering",
+    "category": "GEN",
+    "quota": "AI",
+    "closing_rank": 3137,
+    "state": "West Bengal"
+  },
+  {
+    "college": "IIT Kanpur",
+    "branch": "Mechanical Engineering",
+    "category": "GEN",
+    "quota": "AI",
+    "closing_rank": 2996,
+    "state": "Uttar Pradesh"
+  },
+  {
+    "college": "NIT Trichy",
+    "branch": "Computer Science and Engineering",
+    "category": "GEN",
+    "quota": "AI",
+    "closing_rank": 1019,
     "state": "Tamil Nadu"
   },
   {
     "college": "NIT Trichy",
-    "branch": "Computer Science",
+    "branch": "Computer Science and Engineering",
     "category": "GEN",
     "quota": "HS",
-    "closing_rank": 2500,
+    "closing_rank": 299,
     "state": "Tamil Nadu"
   },
   {
     "college": "NIT Warangal",
-    "branch": "Electrical",
-    "category": "OBC",
+    "branch": "Computer Science and Engineering",
+    "category": "GEN",
     "quota": "AI",
-    "closing_rank": 4000,
+    "closing_rank": 2473,
+    "state": "Telangana"
+  },
+  {
+    "college": "NIT Warangal",
+    "branch": "Computer Science and Engineering",
+    "category": "GEN",
+    "quota": "HS",
+    "closing_rank": 2698,
     "state": "Telangana"
   },
   {
     "college": "IIIT Hyderabad",
-    "branch": "CSE",
+    "branch": "Computer Science and Engineering",
     "category": "GEN",
     "quota": "AI",
-    "closing_rank": 1000,
+    "closing_rank": 866,
     "state": "Telangana"
   }
 ]
